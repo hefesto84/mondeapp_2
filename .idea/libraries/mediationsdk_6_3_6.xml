@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mediationsdk-6.3.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.supersonic.sdk/mediationsdk/6.3.6/843297a478fde534b8fd48a61497a5d8edee52b3/mediationsdk-6.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.supersonic.sdk/mediationsdk/6.3.6/d01eb32637420cd00ab6b3619cf60e8f6ad948ee/mediationsdk-6.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
